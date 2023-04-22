@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #a{
+            padding-top: 20px;
+            display: flex;
+            color: rgb(5, 82, 5);
+            justify-content: space-between;
+        }
+        #a1{
+            display: flex;
+            padding-left:500px;
+            color: black;
+            align-content: space-between;
+            font-weight: lighter;
+            
+        }
+        #b{
+            height: 500px;
+            width: 100%;
+            display: flex;
+            background-color: rgb(241, 241, 241);
+            margin-right: 0px;
+        }
+        #b1{
+            padding-top: 110px;
+        }
+        #b2{
+            height: 300px;
+            width: 500px;
+            margin-right: 100px;
+            text-align: justify;
+            position: absolute;
+            color: green;
+            padding-left: 10px;
+            top: 300px;
+            font-size: small;
+            right: -92px;
+            font-size: medium;
+            background-color: aliceblue;
+            padding-left: 40px;
+            font-style: inherit;
+        }
+        #b4{
+            color: black;
+            font-size: medium;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="a">
+        <img src="t.jpg" height="70px" width="70px">
+        <h3>TANTUM PROJECTS</h3>
+        <div id="a1">
+        <ul><h6>HOME</h6></ul>
+        <ul><h6>ABOUT US</h6></ul>
+        <ul><h6>WHAT WE DO</h6></ul>
+        <ul><h6>PROJECTS</h6></ul>
+        <ul><h6>BLOGS</h6></ul>
+        <ul><h6>CONTACT</h6></ul>
+        </div>
+    </div>
+    <div id="b">
+        <div id="b1">
+            <img src="y.png" height="400px" width="1250px">
+        </div>
+        <div id="b2">
+            <h1>Throw Your FIRST</h1>
+                 <h1>Boomerang Today,</h1> 
+                 <h1>And Prepare to</h1>
+                 <h1>catch the Profits</h1>
+                    <p id="b4">
+                        Exclusive Properties deals that are not are
+                        notavailable trough tranditional means.unlock</p>
+                    </div>
+                       
+
+                    
+    </div>
+</body>
+</html>
